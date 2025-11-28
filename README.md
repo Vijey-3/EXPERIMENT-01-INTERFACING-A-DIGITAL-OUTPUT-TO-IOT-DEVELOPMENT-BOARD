@@ -119,9 +119,11 @@ int main(void)
 
 ## OUTPUT
 ### OFF
-   ![exp_1 off](https://github.com/user-attachments/assets/b7cba62e-5866-4abc-911a-9eabcb3c667f)
+<img width="515" height="706" alt="image" src="https://github.com/user-attachments/assets/290db429-aeba-4b55-9a6e-f06b392c73dd" />
+
 ### ON
-   ![exp_1 on](https://github.com/user-attachments/assets/0c718af8-20af-4722-a49d-134a09338c82)
+<img width="513" height="699" alt="image" src="https://github.com/user-attachments/assets/992026d3-6dc3-4cac-9795-bd4724a31bd8" />
+
 
 
 ## Result
